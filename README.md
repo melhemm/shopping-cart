@@ -1,4 +1,4 @@
-# real-vue
+# MEVN (MongoDB, Express.js, VueJS, Node.js) shopping cart 
 
 ## Project setup
 ```
